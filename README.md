@@ -9,7 +9,6 @@ About me
 
 - 🔭 I’m currently working in a NGO as data officer. 📈
 - 🌱I’m currently learning about Machine Learning and Data Management.  📊 
-- 👯 I’m looking to collaborate on ...
 - 📚like to read fantasy books, listen to music 🎶 and knit 🧶 
 - 
 -->

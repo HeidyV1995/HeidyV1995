@@ -12,7 +12,7 @@ About me
 
 - 🔭 I’m currently working in a NGO as data officer. 📈
 - 🌱I’m currently learning about Machine Learning and Data Management.  📊 
-- 📚like to read fantasy books, listen to music 🎶 and knit 🧶                             <img align="right" alt="Coding" width="200" src="[https://img.freepik.com/vector-premium/educacion-linea_198838-299.jpg](https://img.freepik.com/vector-premium/mujer-estudiante-laptop-estudiando-curso-linea-concepto-educacion-linea-ilustracion-vectorial-plano_186332-1147.jpg)https://img.freepik.com/vector-premium/mujer-estudiante-laptop-estudiando-curso-linea-concepto-educacion-linea-ilustracion-vectorial-plano_186332-1147.jpg">
-- 
+- 📚like to read fantasy books, listen to music 🎶 and knit 🧶              <img align="right" alt="Coding" width="200" src="https://img.freepik.com/vector-gratis/mujer-joven-leyendo-estilo-dibujo-coreano_52683-26614.jpg?w=740&t=st=1705185133~exp=1705185733~hmac=b77f3dc6057d80c1eeeb7ba501638ca62af84cbf21b70cc5b39e26775bdd2a37">
+  
 
 
